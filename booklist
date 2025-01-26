@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <head>
+        <title>BOOK</title>
+        <meta charset ="utf-8">
+    </head>
+    <body>
+        <p><iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/MUWGJjcJelQ?si=wn_uRG-
+            tadhhMHNb&amp;controls=0" title="YouTube video player"
+            frameborder="0" allow="accelerometer; autoplay; 
+            clipboard-write; encrypted-media; gyroscope; 
+            picture-in-picture; web-share" referrerpolicy=
+            "strict-origin-when-cross-origin" allowfullscreen>
+        </iframe></p>
+        <h1><a href="index.html">rough plan for the half year</a></h1>
+        <ol>
+            <li><a href="Jan">January</a></li>
+            <li><a href="2.html">February</a></li>
+            <li><a href="3.html">March</a></li>
+            <li><a href="3.html">April</a></li>
+            <li><a href="3.html">May</a></li>
+            <li><a href="3.html">June</a></li>
+        </ol>
+        <li><a href="booklist">BOOK</a></li>
+        <li><a href="piano">PIANO</a></li>
+        <li><a href="language">LANGUAGE</a></li>
+        <h2>YOU WILL MAKE IT</h2>
+
+    
+        <img src="uni.jpg" width=400>
+    </body>
+</html>
